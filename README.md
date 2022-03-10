@@ -1,13 +1,13 @@
 ## Welcome to my page!
 
-***I'm Xuyunge.***
+***I'm <font color=dodgerblue>Xuyunge</font>.***
 
-***I'm from China.***
+***I'm from <font color=lightpink>China</font>.***
 
-***My birthday is 2000/12/31.***
+***My birthday is <font color=lightblue>2000/12/31</font>.***
 
-***I like listening to music, <font color=deepskyblue>playing computer games</font>, watching movies, and... making new friends!***
+***I like <font color=hotpink>listening to music</font>, <font color=deepskyblue>playing computer games</font>, <font color=lightpink>watching movies</font>, and... <font color=cornflowerblue>making new friends!</font>***
 
-***Friendship is magic~***
+***<font color=violetred>Friendship is magic~</font>***
 
 
