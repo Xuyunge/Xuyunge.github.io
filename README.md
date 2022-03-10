@@ -1,9 +1,13 @@
 ## Welcome to my page!
 
-I'm Xuyunge.
+***I'm Xuyunge.***
 
-I'm from China.
+***I'm from China.***
 
-My birthday is 2000/12/31.
+***My birthday is 2000/12/31.***
 
-I like listening to music, playing computer games, watching movies, and... making new friends! Friendship is magic~
+***I like listening to music, <font color=deepskyblue>playing computer games</font>, watching movies, and... making new friends!***
+
+***Friendship is magic~***
+
+
