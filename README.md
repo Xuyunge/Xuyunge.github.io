@@ -1,28 +1,28 @@
 ## Never Gonna Give You Up
 
-***<font color=dodgerblue>We were no strangers to love~</font>***
+***We were no strangers to love~***
 
-***<font color=lightpink>You know the rules and so do I~</font>***
+***You know the rules and so do I~***
 
-***<font color=lightblue>A full commitments what I'm thinking of~</font>***
+***A full commitments what I'm thinking of~***
 
-***<font color=hotpink>You wouldn't get this from any other guy~</font>***
+***You wouldn't get this from any other guy~***
   
-***<font color=deepskyblue>I just wanna tell you how I'm feeling~</font>***
+***I just wanna tell you how I'm feeling~***
   
-***<font color=lightpink>Gotta make you understand~</font>***
+***Gotta make you understand~***
   
-***<font color=cornflowerblue>Never gonna give you up~</font>***
+***Never gonna give you up~***
   
-***<font color=violetred>Never gonna let you down~</font>***
+***Never gonna let you down~***
   
-***<font color=dodgerblue>Never gonna run around and desert you~</font>***
+***Never gonna run around and desert you~***
   
-***<font color=lightpink>Never gonna make you cry~</font>***
+***Never gonna make you cry~***
   
-***<font color=lightblue>Never gonna say goodbye~</font>***
+***Never gonna say goodbye~***
   
-***<font color=hotpink>Never gonna tell a lie~</font>***
+***Never gonna tell a lie~***
 
-***<font color=deepskyblue>and hurt you~</font>***
+***and hurt you~***
 
